@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sangeerth</h1>
 <h3 align="center">A passionate software developer focused on full-stack development and UI/UX design</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" style="border-radius: 15px;">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeerth619&label=Profile%20views&color=0e75b6&style=flat" alt="sangeerth619" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sangeerth619&label=Profile%20views&color=0e75b6&style=flat" alt="sangeerth619" />
+</p>
 
 - 🔭 I’m currently working on **teamCONNECT, an online web application system for managing employees inside an organization, built with Angular.**
 
@@ -15,19 +19,21 @@
 
 - ⚡ Fun fact: **I'm an AI enthusiast and love experimenting with new technologies to solve real-world problems.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🚀 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sangeerth" target="_blank"><img align="center" src="https://img.shields.io/badge/-Sangeerth-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sangeerthm613@gmail.com"><img align="center" src="https://img.shields.io/badge/-sangeerthm613@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sangeerth" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Sangeerth-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sangeerthm613@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-sangeerthm613@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a> 
-  <img align="left" alt="Angular" width="150" src="https://cdn.dribbble.com/users/730703/screenshots/4084128/angular_icon.gif">
-
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
@@ -46,8 +52,6 @@
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   </a> 
-  <img align="left" alt="Flutter" width="150" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*VB4gHcjDJUS4aQGkIUe5tA.gif">
-
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
@@ -83,5 +87,16 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangeerth619&show_icons=true&locale=en&layout=compact&theme=radical" alt="sangeerth619" /></p>
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangeerth619&show_icons=true&locale=en&layout=compact&theme=radical" alt="sangeerth619" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangeerth619&theme=radical" alt="sangeerth619" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangeerth619&theme=radical" alt="sangeerth619" />
+</p>
